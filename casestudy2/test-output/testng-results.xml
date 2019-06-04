@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24544" started-at="2019-05-30T05:31:14Z" finished-at="2019-05-30T05:31:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24544" started-at="2019-05-30T05:31:14Z" finished-at="2019-05-30T05:31:38Z">
+      <class name="testmeapp.tests.OnlineShoppingTest">
+        <test-method status="PASS" signature="crossbrowser()[pri:0, instance:testmeapp.tests.OnlineShoppingTest@51565ec2]" name="crossbrowser" duration-ms="7519" started-at="2019-05-30T05:31:14Z" finished-at="2019-05-30T05:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crossbrowser -->
+        <test-method status="PASS" signature="signin()[pri:1, instance:testmeapp.tests.OnlineShoppingTest@51565ec2]" name="signin" duration-ms="5520" started-at="2019-05-30T05:31:21Z" finished-at="2019-05-30T05:31:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:testmeapp.tests.OnlineShoppingTest@51565ec2]" name="testLogin" duration-ms="505" started-at="2019-05-30T05:31:27Z" finished-at="2019-05-30T05:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testCart()[pri:3, instance:testmeapp.tests.OnlineShoppingTest@51565ec2]" name="testCart" duration-ms="4004" started-at="2019-05-30T05:31:28Z" finished-at="2019-05-30T05:31:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:testmeapp.tests.OnlineShoppingTest@51565ec2]" name="testPayment" duration-ms="6955" started-at="2019-05-30T05:31:32Z" finished-at="2019-05-30T05:31:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+      </class> <!-- testmeapp.tests.OnlineShoppingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
